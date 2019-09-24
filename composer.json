@@ -1,5 +1,5 @@
 {
-    "name" : "amazon/paapiphpsdk",
+    "name" : "drunomics/paapi5-php-sdk",
     "version" : "1.0.0",
     "keywords" : [
         "amazon",

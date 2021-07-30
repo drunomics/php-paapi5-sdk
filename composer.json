@@ -1,6 +1,6 @@
 {
     "name": "drunomics/paapi5-php-sdk",
-    "version": "1.1.0",
+    "version": "1.1.2",
     "description": "Copy of ProductAdvertisingAPI 5.0 PHP SDK version 2020",
     "keywords": [
         "amazon",
@@ -28,7 +28,8 @@
         "ext-curl": "*",
         "ext-json": "*",
         "ext-mbstring": "*",
-        "guzzlehttp/guzzle": "^6.2 || ^7.0"
+        "guzzlehttp/guzzle": "^6.2 || ^7.0",
+        "guzzlehttp/psr7": "^1.8.2"
     },
     "require-dev": {
         "phpunit/phpunit": "^4.8",
